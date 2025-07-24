@@ -1,10 +1,9 @@
 # 🦠 Final Project Big Data - Analisis & Prediksi COVID-19 Indonesia
 
 # 🧠 Dibuat oleh
-- [Isi Nama Anggota Tim di sini]
-- [Contoh: Agi Tengku 23.11.xxxx]
-- [Kosongkan baris ini jika belum ada nama lengkap]
-- [Kosongkan baris ini jika belum ada nama lengkap]
+- Agi Muhammad Tengku Aqamaddin 23.11.5518
+- Hasbie Surya Lovadeza 22.11.5042
+
 
 Mata Kuliah: Big Data & Predictive Analytics  
 Universitas Amikom Yogyakarta
