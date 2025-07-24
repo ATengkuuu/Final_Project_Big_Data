@@ -50,4 +50,4 @@ Proyek ini bertujuan untuk menganalisis dan memprediksi perkembangan COVID-19 di
 ## 🚀 Cara Menjalankan
 
 ### ▶️ Via Notebook
-Buka notebook berikut di Google Colab atau Jupyter: Final_Project_Big_Data\Notebook\Covid_19_Indonesia_Dataset.ipynb
+Buka notebook berikut di Google Colab atau Jupyter: `Notebook/Covid_19_Indonesia_Dataset.ipynb`
